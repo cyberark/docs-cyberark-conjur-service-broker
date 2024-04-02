@@ -1,3 +1,7 @@
+## ** DEPRECATION NOTICE **
+
+Please note that the docs hosted in this repo are deprecated. Current documentation for the Conjur Service Broker can be found in the [CyberArk Conjur documentation](https://docs.cyberark.com/conjur-enterprise/latest/en/content/Integrations/tanzu/tanzu-use-conjur-service-broker.htm).
+
 ## Development
 
 To preview changes made in this repository locally, you can run bookbinder:
